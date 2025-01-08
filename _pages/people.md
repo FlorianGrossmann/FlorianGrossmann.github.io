@@ -1,34 +1,24 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "People"
+permalink: /people/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Marine Sciences, Universitat Politècnica de Catalunya Barcelona Tech, 2023
-* M.Sc. in Coastal and Marine Science and Engineering (CoMEM), TU Delft, 2019
-* B.Sc. in Environmental Engineering, RWTH Aachen University, 2017
-* M.Eng. in Civil and Environmental Engineering, Imperial College London, 2016 (Erasmus+ Exchange Scholarship) 
+Initial text - my job allows me to meet interesting people and learn a lot from them. Always looking to discuss new collaborations, just shoot me an email (also students wanting to be supervised, for example for a summer internship).
 
-Work experience
+Steve Elgar and Britt Raubenheimer
 ======
-* 10/2023-09/2024: Postdoctoral Investigator
-  * UPC Barcelona Tech, REST-COAST Project
-  * Duties included: Project management of EU-funded coastal restoration project with 36 international partners
-  * Supervisor: Agustín Sánchez-Arcilla
+* Quick text how I am currenly related to them and group photo from the experiments
 
-* 07/2018-09/2018: Research Intern
-  * Equinor ASA Research Department
-  * Duties included: Numerical modelling of wave impacts in WAMIT and OpenFOAM
-
-Languages
+Agustín Sánchez-Arcilla and José Alsina
 ======
-* German (native)
-* English (fluent)
-* Spanish (fluent)
+* Quick text how I was related to them and photo of the phd presentation
+
+Sierd de Vries, Marion Tissier, Matthijs Gawehn and Stefan Aarninkhof
+======
+* Quick text how I was related to them and maybe dig for a photo
+
