@@ -11,10 +11,6 @@ I am a postdoctoral scholar in the Applied Ocean Physics & Engineering Departmen
 
 When not working, I like to enjoy the beauty of natural places - especially from high vantage points.
 
-title: "Climbing Flo"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Climbiflo.jpg'>"
-collection: portfolio
-
-<br/><img src='/images/pprofile.png'>
+<br/><img src='/images/cclimbiflo.jpg'>
 
 
