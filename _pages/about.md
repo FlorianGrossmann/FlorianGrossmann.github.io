@@ -11,6 +11,6 @@ I am a postdoctoral scholar in the Applied Ocean Physics & Engineering Departmen
 
 When not working, I like to enjoy the beauty of natural places - especially from high vantage points.
 
-<br/><img src='/images/cclimbiflo.jpg'>
+<br/><img src='/images/ccclimbiflo.png'>
 
 
