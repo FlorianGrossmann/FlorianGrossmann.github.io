@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Florian Grossmann / Physical Oceanographer"
+title                    : "Florian Grossmann"
 title_separator          : "-"
 name                     : &name "Florian Grossmann"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Flo Grossmann"
+  pronouns         : "he/him"  
+  bio              : "Physical Oceanographer, PhD"
   location         : "Woods Hole, MA"
-  employer         : "Woods Hole Oceanographic Institution (WHOI)"
+  employer         : "WHOI"
   uri              : # URL
   email            : "florian.grossmann@whoi.edu" 
 
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
