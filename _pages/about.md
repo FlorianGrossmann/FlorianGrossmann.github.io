@@ -1,10 +1,12 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a postdoctoral scholar in the Applied Ocean Physics & Engineering Department of Woods Hole Oceanographic Institution. I have taken a long route to get here, passing through Aachen, London, Trondheim, Delft, Southampton and Barcelona. My research interests include waves propagating through the nearshore zone, how they transport sediments and other tracers, and how they reshape our coastlines. I started off as a civil engineer considering interactions of the coast with human needs, but lately branched out to focus more on the natural processes themselves. For more details on individual research projects please see the Research tab.
+
+When not working, I like to enjoy the beauty of natural places - especially from high vantage points.
