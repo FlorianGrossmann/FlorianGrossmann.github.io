@@ -12,16 +12,16 @@ redirect_from:
 Education
 ======
 * Ph.D in Marine Sciences, Universitat Politècnica de Catalunya Barcelona Tech, 2023
-* M.Sc. in Coastal and Marine Science and Engineering (CoMEM), TU Delft (joint program with NTNU Trondheim and University of Southampton), 2019
+* M.Sc. in Coastal and Marine Science and Engineering (CoMEM), TU Delft, 2019
 * B.Sc. in Environmental Engineering, RWTH Aachen University, 2017
 * Erasmus+ Scholarship for 1-year exchange to M.Eng. in Civil and Environmental Engineering, Imperial College London, 2016
 
 Work experience
 ======
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 10/2023-09/2024: Postdoctoral Investigator
+  * UPC Barcelona Tech, REST-COAST Project
+  * Duties included: Project management of EU-funded coastal restoration project with 36 international partners
+  * Supervisor: Agustín Sánchez-Arcilla
 
 * Summer 2015: Research Assistant
   * Github University
@@ -30,3 +30,9 @@ Work experience
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Languages
+======
+* German (native)
+* English (fluent)
+* Spanish (fluent)
