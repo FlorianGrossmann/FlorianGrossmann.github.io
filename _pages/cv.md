@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Marine Sciences, Universitat Politècnica de Catalunya Barcelona Tech, 2023
+* M.Sc. in Coastal and Marine Science and Engineering (CoMEM), TU Delft (joint program with NTNU Trondheim and University of Southampton), 2019
+* B.Sc. in Environmental Engineering, RWTH Aachen University, 2017
+* Erasmus+ Scholarship for 1-year exchange to M.Eng. in Civil and Environmental Engineering, Imperial College London, 2016
 
 Work experience
 ======
