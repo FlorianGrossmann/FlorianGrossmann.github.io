@@ -23,10 +23,10 @@ Work experience
   * Duties included: Project management of EU-funded coastal restoration project with 36 international partners
   * Supervisor: Agustín Sánchez-Arcilla
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 07/2018-09/2018: Research Intern
+  * Equinor ASA Research Department
+  * Duties included: Numerical modelling of wave impacts in WAMIT and OpenFOAM
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
