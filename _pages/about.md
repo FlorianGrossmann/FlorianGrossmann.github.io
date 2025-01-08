@@ -14,3 +14,9 @@ When not working, I like to enjoy the beauty of natural places - especially from
 title: "Climbing Flo"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/Climbiflo.jpg'>"
 collection: portfolio
+
+src='/images/500x300.png'
+
+src='/images/pprofile.png'
+
+
