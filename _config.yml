@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/pprofile.png"
+  avatar           : "images/ppprofile.png"
   name             : "Flo Grossmann"
   pronouns         : "he/him"  
   bio              : "Physical Oceanographer, PhD"
