@@ -27,10 +27,6 @@ Work experience
   * Equinor ASA Research Department
   * Duties included: Numerical modelling of wave impacts in WAMIT and OpenFOAM
 
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Languages
 ======
 * German (native)
