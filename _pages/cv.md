@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-* Ph.D in Marine Sciences, Universitat Politècnica de Catalunya Barcelona Tech, 2023
+* Ph.D in Marine Sciences, Universitat Politècnica de Catalunya (UPC) Barcelona Tech, 2023
 * M.Sc. in Coastal and Marine Science and Engineering (CoMEM), TU Delft, 2019
 * B.Sc. in Environmental Engineering, RWTH Aachen University, 2017
 * M.Eng. in Civil and Environmental Engineering, Imperial College London, 2016 (Erasmus+ Exchange Scholarship) 
