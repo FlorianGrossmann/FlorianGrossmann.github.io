@@ -10,8 +10,13 @@ author_profile: true
 
 Coastal Sediment Transport and Morphology
 ------
-* Ph.D in Marine Sciences, Universitat Politècnica de Catalunya Barcelona Tech, 2023
- 
+Waves generate currents in the nearshore zone. Many of us have experienced them as rip currents or undertow under breaking waves. Apart from their influence on swimmer safety, currents and the wave action itself transport sand (larvae, other sediment, ...) along and away from/towards the coast. I am using laboratory and field experiments to measure with mechanical, acoustic and optical instruments how this happens, and what influences it. Below you can see results from some of our laboratory experiments where we deployed a novel acoustic device (Hurther et al. 2011) to measure the sediment transport in the lowest 5cm above the seabed (Grossmann et al. 2023).
+
+Figure 3 Grossmann et al. 2023a
+
+[GitHub pages](https://pages.github.com/) 
+
+
 
 Coastal Restoration
 ------
