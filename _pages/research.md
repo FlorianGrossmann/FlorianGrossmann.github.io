@@ -26,7 +26,7 @@ Apart from the in-situ instrumentation mentioned above, I also use radar remote 
 
 Coastal Restoration
 ------
-While the above work is focused on understanding physical processes in the nearshore zone, my [work on coastal restoration](https://rest-coast.eu/) uses the physical understanding to improve coastal management strategies under considerations of climate change. In particular, I am interested which physical conditions make coastal ecosystems, such as salt marshes, thrive, and how to generate those conditions with engineering interventions. Apart from solving the technical side of these issues, it also brought me in contact with local stakeholders, discussing their needs during science outreach activities. Here is a photo of a so-called climatic hut which we use to simulate climate change conditions decades into the future.
+While the above work is focused on understanding physical processes in the nearshore zone, my [work on coastal restoration](https://rest-coast.eu/) uses the physical understanding to improve coastal management strategies under consideration of climate change. In particular, I am interested which physical conditions make coastal ecosystems, such as salt marshes, thrive, and how to generate those conditions with engineering interventions. Apart from solving the technical side of these issues, it also brought me in contact with local stakeholders, discussing their needs during science outreach activities. Here is a photo of a so-called climatic hut which we use to simulate climate change conditions decades into the future.
 
 <br/><img src='/images/climatehut.png'>
 
