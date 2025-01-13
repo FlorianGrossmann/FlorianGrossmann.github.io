@@ -24,8 +24,8 @@ These three are instrumental (pun intended) in my academic journey. David guides
 
 Sierd de Vries, Marion Tissier, Matthijs Gawehn and Stefan Aarninkhof
 ------
-These four sent me off to an exciting start in academia. From sitting in their lectures, to being supervised and now discussing new results in conferences, we are having many fruitful exchanges.
+These four sent me off to an exciting start in academia. From sitting in their lectures, to being supervised and now discussing new results in conferences! As part of my research in the Netherlands I also got to visit the flood defenses in Westkapelle.
 
-
+<br/><img src='/images/westkapelle.png'>
 
 
