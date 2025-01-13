@@ -20,7 +20,7 @@ Profile Evolution plot
 
 Radar Remote Sensing
 ------
-Apart from the in-situ instrumentation mentioned above, I also use radar remote sensing for a fuller picture. Radar systems emit radio waves which are then reflected back from objects, including the sea surface. By analysing the differences between emitted and reflected radio wave, we can understand something about the properties of the reflecting object (here, ocean waves). While the imaging mechanisms are complex and subject to some uncertainty, radar can give information over large areas. This allows us to understand complex coastal systems such as the ebb tidal delta of the Dutch Ameland inlet, shown below. [Here](https://doi.org/10.18451/978-3-939230-64-9_042) we used the radar to estimate underwater bathymetry (shape of the seabed) and track flow velocities. The shown area measures X by Y kilomtres. 
+Apart from the in-situ instrumentation mentioned above, I also use radar remote sensing for a fuller picture. Radar systems emit radio waves which are then reflected back from objects, including the sea surface. By analysing the differences between emitted and reflected radio wave, we can understand something about the properties of the reflecting object (here, ocean waves). While the imaging mechanisms are complex and subject to some uncertainty, radar can give information over large areas. This allows us to understand complex coastal systems such as the ebb tidal delta of the Dutch Ameland inlet, shown below. [Here](https://doi.org/10.18451/978-3-939230-64-9_042) we used the radar to estimate underwater bathymetry (shape of the seabed) and track flow velocities. The shown area measures 15 by 15 kilometres. 
 
 <br/><img src='/images/ameland.png'>
 
